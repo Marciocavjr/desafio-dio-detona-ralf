@@ -25,4 +25,4 @@ Durante o desenvolvimento deste projeto, foram aplicados e reforçados os seguin
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/detona-ralph.git
+   git clone https://github.com/Marciocavjr/desafio-dio-detona-ralf.git
